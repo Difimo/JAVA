@@ -1,5 +1,5 @@
 
-#CURSO EM VIDEO | jAVA Basico
+#CURSO EM VIDEO | JAVA Basico
 
 Repositorio para armazenar resumos e estudo sobre JAVA basico.
 
@@ -10,9 +10,9 @@ Repositorio para armazenar resumos e estudo sobre JAVA basico.
 
 
 # 📔 Resumos das Aulas
-{----------------------------------}
-
-|Tópicos que você vai estudar:|
+{-------------------------------}
+| Tópicos que você vai estudar: |
+{-------------------------------}
 
 °História do Java e sua importância no mercado
 
